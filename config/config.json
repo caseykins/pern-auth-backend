@@ -1,10 +1,14 @@
 {
   "development": {
+    "username": "caleb",
+    "password": "sex", 
     "database": "collab",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
+    "username": "caleb",
+    "password": "sex",
     "database": "DB NAME HERE",
     "host": "127.0.0.1",
     "dialect": "postgres"
